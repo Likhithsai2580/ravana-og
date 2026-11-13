@@ -4,6 +4,8 @@
 > learns continuously from conversation and the open web — **no LLM, no
 > pretrained chat model.**
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Likhithsai2580/ravana-og)
+
 RAVANA stores knowledge as a **typed concept graph**, produces language with a
 small **neural decoder** conditioned on graph walks, and orchestrates cognition
 with a **20-phase GRACE governor** (phases A–P: identity, emotion, sleep, meaning,
